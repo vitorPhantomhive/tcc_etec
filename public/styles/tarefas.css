@@ -1,0 +1,45 @@
+body{
+    background: #E5E5E5;
+}
+
+.tarefaConc, .tarefaAtri{
+    position: relative;
+    width: 650px;
+    height: 80px;
+    left: 20%;
+    margin-top: 10%;
+
+    background: #FFFFFF;
+    box-shadow: 0px 7px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+}
+
+.dropdownTaf{
+    display: block;
+    width: 650px;
+    height: 40px;
+    padding: 0.25rem 1.5rem;
+    clear: both;
+    font-weight: 400;
+    color: #212529;
+    text-align: inherit;
+    white-space: nowrap;
+    background-color: transparent;
+
+    margin-top: 1%;
+    
+    box-shadow: 0px 7px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+
+    transition: 800ms;
+}
+
+.dropdownTaf:hover{
+    background-color: #e5e6e7;
+    text-decoration: none;
+}
+/*
+
+coisas da tela dentroTarefa.php
+
+*/
