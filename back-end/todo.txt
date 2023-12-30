@@ -1,0 +1,14 @@
+Iniciar vendo como fazer a api do melhor jeito para restful
+
+
+ainda não sei se vou usar algo como um arquivo Index.php que vai guardar as Rotas da api e baseado no endpoint vou chamando as models algo como:
+    -> /aluno/REQUISIÇÃO_UTILIZADA/
+
+    nesse caso REQUISIÇÃO UTILIZADA seria um POST, estaria chamando a controller de aluno para fazer um insert, a ideia ainda esta abstrata então não pensei em como fazer 
+    mas acredito que seja algo assim. OBS: sei que a chamada feita por POST GET não vai estar na url isso só foi um jeito de ilustrar o que eu queria dizer.
+    
+    -> /professor/REQUISIÇÃO_UTILIZADA/
+
+
+outra coisa a se pensar, é se seria ideal eu passar dados da sessão para o React, como um Provider ou algo do tipo, para que o usuario guarde algumas infos no cache do navegador
+    e não precise fazer requisições desnecessarias uma vez guardadas nele
