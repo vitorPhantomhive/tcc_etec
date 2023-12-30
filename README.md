@@ -1,21 +1,21 @@
-# Study Home
+# Study Home - README
 
 ## Projeto de Conclusão de Curso - Curso Técnico em [Desenvolvimento de Sistemas]
 
-Este projeto, intitulado "Study Home", é o resultado do trabalho de conclusão de curso desenvolvido durante meu curso técnico. Realizado há dois anos em colaboração com outros dois participantes, o projeto foi construído predominantemente em PHP, utilizando MySQL como banco de dados. A presença de JavaScript é mínima, sendo direcionada principalmente para funcionalidades específicas.
+O "Study Home" representa meu trabalho de conclusão de curso, desenvolvido há dois anos em colaboração com outros participantes. Inicialmente construído predominantemente em PHP, utilizando MySQL como banco de dados, o projeto agora passa por uma fase de revitalização e aprimoramento.
 
 ### Descrição do Projeto
 
-O "Study Home" é um sistema voltado para facilitar a gestão e organização de materiais de estudo, fornecendo funcionalidades básicas de inserção e consulta no banco de dados. A ênfase está na praticidade e na criação de uma plataforma amigável para os usuários gerenciarem seus recursos educacionais.
+O "Study Home" é uma plataforma dedicada à gestão e organização de materiais de estudo. Originalmente construído com ênfase na praticidade, o sistema oferece funcionalidades básicas de inserção e consulta no banco de dados, com presença mínima de JavaScript.
 
 ### Status Atual
 
-O projeto foi recentemente disponibilizado no GitHub como parte de uma estratégia para revitalizar e aprimorar suas funcionalidades. A decisão de compartilhar o código abertamente visa não apenas a revisão e contribuições externas, mas também a motivação pessoal para continuar o desenvolvimento.
+Recentemente, o projeto foi disponibilizado no GitHub como parte da estratégia de revitalização. A decisão de compartilhar o código abertamente visa a revisão, contribuições externas e motivação pessoal para a continuidade do desenvolvimento.
 
-### Próximos Passos
+### Atualizações Futuras
 
-Considerando a idade do projeto e as mudanças no cenário de desenvolvimento web, estou avaliando a possibilidade de migrar para um framework mais robusto, como Laravel. A decisão final entre aprimorar o código atual com um modelo MVC em PHP ou iniciar um novo projeto no Laravel dependerá da análise das necessidades atuais e da viabilidade de migração.
+Em busca de modernização, estou considerando migrar o projeto para React no front-end, mantendo o back-end como uma API em PHP. A escolha entre aprimorar o código atual com um modelo MVC em PHP ou iniciar um novo projeto no Laravel dependerá da análise das necessidades atuais e da viabilidade de migração.
 
 ### Contribuições
 
-Fique à vontade para explorar o código, sugerir melhorias e contribuir para o desenvolvimento do "Study Home". Seja parte dessa jornada de aprimoramento e modernização do projeto, ajudando a criar uma plataforma de estudo mais eficiente e atualizada.
+Sinta-se à vontade para explorar o código, sugerir melhorias e contribuir para o desenvolvimento do "Study Home". Junte-se a esta jornada de aprimoramento e modernização do projeto, ajudando a criar uma plataforma de estudo mais eficiente e atualizada.
