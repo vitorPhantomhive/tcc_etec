@@ -1,6 +1,6 @@
 # Study Home
 
-## Projeto de Conclusão de Curso - Curso Técnico em [Seu Curso]
+## Projeto de Conclusão de Curso - Curso Técnico em [Desenvolvimento de Sistemas]
 
 Este projeto, intitulado "Study Home", é o resultado do trabalho de conclusão de curso desenvolvido durante meu curso técnico. Realizado há dois anos em colaboração com outros dois participantes, o projeto foi construído predominantemente em PHP, utilizando MySQL como banco de dados. A presença de JavaScript é mínima, sendo direcionada principalmente para funcionalidades específicas.
 
