@@ -1,5 +1,6 @@
-1 - iniciar montando as Rotas apontando para as devidas controllers
+UPDATES!!!!
 
-2- criar as controllers e models do sistema OBS:: ainda não sei se compensa montar as migrattions primeiro ou ir direto para as controllers
-
-3 - Passar itens de sessão para o React, fazendo um Proveider ou coisa do tipo, para ficar mais tranquilo o acesso 
+anteriormente tive a idea de fazer a API - REST com o laravel, com isso tive que aprender muitas coisas com ORM do laravel, as migrations entre outros.
+o problema é que o Laravel tem muita ferramentas! E se você não souber lidar acaba mais te prejudicando do que ajudando, com isso tive a ideia de fazer em nodeJS com Fastify e Typescript
+PORÉM a ideia principal era tentar aprender coisas novas nesse projeto, agora estarei fazendo em CSharp no ASP.NET CORE, ainda não vou publicar nada dele, pois estou aprendendo,
+vou deixar o inicio do node ainda para ter uma ideia do que quero seguir fazendo, criei uma pastinha para o docker composer para poder testar o banco com facilidade 
