@@ -6,8 +6,8 @@ import MenuPrincipal from './components/MenuPrincipal'
 function App() {
   return (
     <div>
-      {/* <Formulario></Formulario> */}
-      <MenuPrincipal></MenuPrincipal>
+      <Formulario></Formulario>
+      {/* <MenuPrincipal></MenuPrincipal> */}
     </div>
   )
 }
