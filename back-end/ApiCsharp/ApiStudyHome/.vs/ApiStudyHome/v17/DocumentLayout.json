@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vitor\\source\\repos\\ApiStudyHome\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C88363B8-156C-4F29-85E3-E1044BB2BEA8}|ApiStudyHome\\ApiStudyHome.csproj|c:\\users\\vitor\\source\\repos\\apistudyhome\\apistudyhome\\controllers\\escolacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88363B8-156C-4F29-85E3-E1044BB2BEA8}|ApiStudyHome\\ApiStudyHome.csproj|solutionrelative:apistudyhome\\controllers\\escolacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88363B8-156C-4F29-85E3-E1044BB2BEA8}|ApiStudyHome\\ApiStudyHome.csproj|c:\\users\\vitor\\source\\repos\\apistudyhome\\apistudyhome\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88363B8-156C-4F29-85E3-E1044BB2BEA8}|ApiStudyHome\\ApiStudyHome.csproj|solutionrelative:apistudyhome\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlunoController.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\ApiStudyHome\\ApiStudyHome\\Controllers\\AlunoController.cs",
+              "RelativeDocumentMoniker": "ApiStudyHome\\Controllers\\AlunoController.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\ApiStudyHome\\ApiStudyHome\\Controllers\\AlunoController.cs",
+              "RelativeToolTip": "ApiStudyHome\\Controllers\\AlunoController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T09:29:17.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EscolaController.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\ApiStudyHome\\ApiStudyHome\\Controllers\\EscolaController.cs",
+              "RelativeDocumentMoniker": "ApiStudyHome\\Controllers\\EscolaController.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\ApiStudyHome\\ApiStudyHome\\Controllers\\EscolaController.cs",
+              "RelativeToolTip": "ApiStudyHome\\Controllers\\EscolaController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwBAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T09:24:26.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
