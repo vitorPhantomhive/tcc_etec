@@ -52,7 +52,38 @@ namespace ApiStudyHome.Controllers
         }
 
         [HttpPut("{id}")]
-        public ActionResult<>
+        public ActionResult Put(int id, Escola escola)
+        {
+            var escolas = _context.Escolas.SingleOrDefault(escola => escola.Id == id);
+
+            if(escolas is null)
+            {
+                return NotFound();
+            }
+
+            escolas.Update(escola.Nome, escola.CNPJ, escola.Email, escola.Senha);
+            _context.SaveChanges();
+            return Ok(escolas);
+
+        }
+
+        [HttpDelete("{id}")]
+        public ActionResult Delete(int id)
+        {
+            var escola = _context.Escolas.Find(id); //pegando escola que tenha o id informado
+            
+            if(escola == null)
+            {
+                //Retorna não encontrou a escola
+                return NoContent();
+            }
+
+            _context.Escolas.Remove(escola); // Marca a escola para exclusão
+            _context.SaveChanges();
+
+            return Ok();
+
+        }
 
     }
 }

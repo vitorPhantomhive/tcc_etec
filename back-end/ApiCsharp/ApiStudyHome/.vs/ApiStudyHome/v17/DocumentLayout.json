@@ -1,14 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vitor\\source\\repos\\ApiStudyHome\\",
+  "WorkspaceRootPath": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\tcc\\back-end\\ApiCsharp\\ApiStudyHome\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C88363B8-156C-4F29-85E3-E1044BB2BEA8}|ApiStudyHome\\ApiStudyHome.csproj|c:\\users\\vitor\\source\\repos\\apistudyhome\\apistudyhome\\controllers\\escolacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C88363B8-156C-4F29-85E3-E1044BB2BEA8}|ApiStudyHome\\ApiStudyHome.csproj|solutionrelative:apistudyhome\\controllers\\escolacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\tcc\\back-end\\ApiCsharp\\ApiStudyHome\\ApiStudyHome\\Controllers\\EscolaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiStudyHome\\Controllers\\EscolaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C88363B8-156C-4F29-85E3-E1044BB2BEA8}|ApiStudyHome\\ApiStudyHome.csproj|c:\\users\\vitor\\source\\repos\\apistudyhome\\apistudyhome\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C88363B8-156C-4F29-85E3-E1044BB2BEA8}|ApiStudyHome\\ApiStudyHome.csproj|solutionrelative:apistudyhome\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\tcc\\back-end\\ApiCsharp\\ApiStudyHome\\ApiStudyHome\\Controllers\\AlunoController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiStudyHome\\Controllers\\AlunoController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\tcc\\back-end\\ApiCsharp\\ApiStudyHome\\ApiStudyHome\\Controllers\\TurmaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiStudyHome\\Controllers\\TurmaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\tcc\\back-end\\ApiCsharp\\ApiStudyHome\\ApiStudyHome\\Models\\Escola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiStudyHome\\Models\\Escola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\tcc\\back-end\\ApiCsharp\\ApiStudyHome\\ApiStudyHome\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiStudyHome\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,29 +30,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "AlunoController.cs",
-              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\ApiStudyHome\\ApiStudyHome\\Controllers\\AlunoController.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\tcc\\back-end\\ApiCsharp\\ApiStudyHome\\ApiStudyHome\\Controllers\\AlunoController.cs",
               "RelativeDocumentMoniker": "ApiStudyHome\\Controllers\\AlunoController.cs",
-              "ToolTip": "C:\\Users\\vitor\\source\\repos\\ApiStudyHome\\ApiStudyHome\\Controllers\\AlunoController.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\tcc\\back-end\\ApiCsharp\\ApiStudyHome\\ApiStudyHome\\Controllers\\AlunoController.cs",
               "RelativeToolTip": "ApiStudyHome\\Controllers\\AlunoController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwBMAAAAnAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T09:29:17.398Z"
+              "WhenOpened": "2024-04-02T23:46:38.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TurmaController.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\tcc\\back-end\\ApiCsharp\\ApiStudyHome\\ApiStudyHome\\Controllers\\TurmaController.cs",
+              "RelativeDocumentMoniker": "ApiStudyHome\\Controllers\\TurmaController.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\tcc\\back-end\\ApiCsharp\\ApiStudyHome\\ApiStudyHome\\Controllers\\TurmaController.cs",
+              "RelativeToolTip": "ApiStudyHome\\Controllers\\TurmaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T23:44:59.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\tcc\\back-end\\ApiCsharp\\ApiStudyHome\\ApiStudyHome\\Program.cs",
+              "RelativeDocumentMoniker": "ApiStudyHome\\Program.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\tcc\\back-end\\ApiCsharp\\ApiStudyHome\\ApiStudyHome\\Program.cs",
+              "RelativeToolTip": "ApiStudyHome\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T23:59:32.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Escola.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\tcc\\back-end\\ApiCsharp\\ApiStudyHome\\ApiStudyHome\\Models\\Escola.cs",
+              "RelativeDocumentMoniker": "ApiStudyHome\\Models\\Escola.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\tcc\\back-end\\ApiCsharp\\ApiStudyHome\\ApiStudyHome\\Models\\Escola.cs",
+              "RelativeToolTip": "ApiStudyHome\\Models\\Escola.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T23:35:48.309Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "EscolaController.cs",
-              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\ApiStudyHome\\ApiStudyHome\\Controllers\\EscolaController.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\tcc\\back-end\\ApiCsharp\\ApiStudyHome\\ApiStudyHome\\Controllers\\EscolaController.cs",
               "RelativeDocumentMoniker": "ApiStudyHome\\Controllers\\EscolaController.cs",
-              "ToolTip": "C:\\Users\\vitor\\source\\repos\\ApiStudyHome\\ApiStudyHome\\Controllers\\EscolaController.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\\u00C1rea de Trabalho\\tcc\\back-end\\ApiCsharp\\ApiStudyHome\\ApiStudyHome\\Controllers\\EscolaController.cs",
               "RelativeToolTip": "ApiStudyHome\\Controllers\\EscolaController.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAwwBAAAAAfAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAqwEAAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-25T09:24:26.399Z",
               "EditorCaption": ""

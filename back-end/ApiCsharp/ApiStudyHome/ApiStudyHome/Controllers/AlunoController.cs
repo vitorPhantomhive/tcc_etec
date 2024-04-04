@@ -22,7 +22,7 @@ namespace ApiStudyHome.Controllers
             var alunos = _context.Alunos.ToList();
             if(alunos is null)
             {
-                return NotFound();
+                return NoContent();
             }
             return alunos;
         }

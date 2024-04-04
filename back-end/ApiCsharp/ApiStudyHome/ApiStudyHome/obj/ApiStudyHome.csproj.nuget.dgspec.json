@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vitor\\source\\repos\\ApiStudyHome\\ApiStudyHome\\ApiStudyHome.csproj": {}
+    "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\tcc\\back-end\\ApiCsharp\\ApiStudyHome\\ApiStudyHome\\ApiStudyHome.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vitor\\source\\repos\\ApiStudyHome\\ApiStudyHome\\ApiStudyHome.csproj": {
+    "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\tcc\\back-end\\ApiCsharp\\ApiStudyHome\\ApiStudyHome\\ApiStudyHome.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vitor\\source\\repos\\ApiStudyHome\\ApiStudyHome\\ApiStudyHome.csproj",
+        "projectUniqueName": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\tcc\\back-end\\ApiCsharp\\ApiStudyHome\\ApiStudyHome\\ApiStudyHome.csproj",
         "projectName": "ApiStudyHome",
-        "projectPath": "C:\\Users\\vitor\\source\\repos\\ApiStudyHome\\ApiStudyHome\\ApiStudyHome.csproj",
+        "projectPath": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\tcc\\back-end\\ApiCsharp\\ApiStudyHome\\ApiStudyHome\\ApiStudyHome.csproj",
         "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vitor\\source\\repos\\ApiStudyHome\\ApiStudyHome\\obj\\",
+        "outputPath": "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\tcc\\back-end\\ApiCsharp\\ApiStudyHome\\ApiStudyHome\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

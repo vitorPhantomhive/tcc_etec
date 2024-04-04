@@ -5,10 +5,12 @@ namespace ApiStudyHome.Models
     [Table("escola")]
     public class Escola
     {
-        public Escola(string nome, string cNPJ, string email, string senha)
+        
+        //métudo de update para usar na controller quando a rota for put
+        public void Update(string nome, string cnpj, string email, string senha)
         {
             Nome = nome;
-            CNPJ = cNPJ;
+            CNPJ = cnpj;
             Email = email;
             Senha = senha;
         }
