@@ -14,8 +14,20 @@ namespace ApiStudyHome.Models
         public string Cpf { get; set; }
 
         // Relacionamento muitos-para-muitos com Turma
-        public ICollection<Materia> Materias { get; set; }
-        public ICollection<TurmaProfessor> Turmas { get; set; }
-        public ICollection<Tarefa> Tarefas { get; set; }
+        public ICollection<Materia>? Materias { get; set; }
+        public ICollection<TurmaProfessor>? Turmas { get; set; }
+        public ICollection<Tarefa>? Tarefas { get; set; }
+
+
+        public void Update(string nome, string email, string senha, int telefone, bool ativo, string cpf)
+        {
+            Nome = nome;
+            Email = email;
+            Senha = senha;
+            Telefone = telefone;
+            Ativo = ativo;
+            Cpf = cpf;
+
+        }
     }
 }

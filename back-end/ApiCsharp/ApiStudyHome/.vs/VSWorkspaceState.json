@@ -2,10 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\ApiStudyHome",
+    "\\ApiStudyHome\\Context",
     "\\ApiStudyHome\\Controllers",
     "\\ApiStudyHome\\Migrations",
     "\\ApiStudyHome\\Models"
   ],
-  "SelectedNode": "\\ApiStudyHome\\Controllers\\EscolaController.cs",
+  "SelectedNode": "\\ApiStudyHome.sln",
   "PreviewInSolutionExplorer": false
 }
