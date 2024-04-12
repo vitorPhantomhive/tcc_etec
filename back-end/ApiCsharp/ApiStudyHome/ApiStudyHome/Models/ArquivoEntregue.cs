@@ -3,9 +3,11 @@
 namespace ApiStudyHome.Models
 {
     [Table("arquivoEntregue")]
+    //tabela que serve para dizer qual aluno entregou qual atividade
     public class ArquivoEntregue
     {
         public int Id { get; set; }
+        //é o proprio arquivo entregue da atividade
         public string Nome { get; set; }
 
         [ForeignKey("Aluno")]

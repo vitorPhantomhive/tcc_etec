@@ -20,12 +20,24 @@ namespace ApiStudyHome.Controllers
         public ActionResult<IEnumerable<Aluno>> Get()
         {
             var alunos = _context.Alunos.ToList();
-            if(alunos is null)
+            if (alunos is null)
             {
                 return NoContent();
             }
             return alunos;
         }
+
+        [HttpGet("{id}")]
+        public ActionResult<Aluno> GetById(int id)
+        {
+            var alunos = _context.Alunos.SingleOrDefault(alunos => alunos.Id == id);
+            if (alunos is null)
+            {
+                return NotFound();
+            }
+            return alunos;
+        }
+
         [HttpPost]
         public ActionResult Post(Aluno aluno)
         {
@@ -35,7 +47,22 @@ namespace ApiStudyHome.Controllers
             }
             _context.Alunos.Add(aluno);
             _context.SaveChanges();
+
             return Ok();
         }
+        [HttpPut("{id}")]
+        public ActionResult Put(int id, Aluno aluno)
+        {
+
+            var alunos = _context.Alunos.SingleOrDefault(aluno => aluno.Id == id);
+
+            if(alunos is null)
+            {
+                return NotFound();
+            }
+            aluno.Update((int)aluno.TurmaId, aluno.Nome, aluno.Email, aluno.Senha, aluno.Telefone, aluno.Ativo, aluno.Cpf);
+            return Ok();
+        }
+
     }
 }
