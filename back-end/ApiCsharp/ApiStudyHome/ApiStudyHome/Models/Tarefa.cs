@@ -21,7 +21,7 @@ namespace ApiStudyHome.Models
         public int ProfessorId { get; set; }
         public Professor Professor { get; set; }
 
-        public ICollection<Entregue> Entregas { get; set; }
+        public ICollection<TarefaEntregue> Entregas { get; set; }
 
 
 

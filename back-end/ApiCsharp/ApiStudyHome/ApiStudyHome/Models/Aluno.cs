@@ -29,7 +29,7 @@ namespace ApiStudyHome.Models
         public bool Ativo { get; set; }
         public string Cpf { get; set; }
 
-        public ICollection<Entregue>? Entregas { get; set; }
+        public ICollection<TarefaEntregue>? Entregas { get; set; }
 
         
     }

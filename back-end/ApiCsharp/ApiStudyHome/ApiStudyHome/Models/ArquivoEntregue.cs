@@ -3,7 +3,7 @@
 namespace ApiStudyHome.Models
 {
     [Table("arquivoEntregue")]
-    //tabela que serve para dizer qual aluno entregou qual atividade
+    //tabela que serve para dizer qual aluno entregou essa atividade
     public class ArquivoEntregue
     {
         public int Id { get; set; }

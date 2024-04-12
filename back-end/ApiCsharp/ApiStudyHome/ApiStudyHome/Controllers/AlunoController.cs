@@ -2,6 +2,7 @@
 using ApiStudyHome.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace ApiStudyHome.Controllers
 {
@@ -63,6 +64,18 @@ namespace ApiStudyHome.Controllers
             aluno.Update((int)aluno.TurmaId, aluno.Nome, aluno.Email, aluno.Senha, aluno.Telefone, aluno.Ativo, aluno.Cpf);
             return Ok();
         }
+        [HttpDelete("{id}")]
+        public ActionResult Delete(int id)
+        {
+            var aluno = _context.Alunos.Find(id);
+            if (aluno is null)
+            {
+                return NoContent();
+            }
+            _context.Alunos.Remove(aluno);
+            _context.SaveChanges();
 
+            return Ok();
+        }
     }
 }

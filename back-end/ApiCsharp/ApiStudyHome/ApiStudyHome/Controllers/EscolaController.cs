@@ -23,7 +23,7 @@ namespace ApiStudyHome.Controllers
             var escolas = _context.Escolas.ToList();
             if(escolas is null || escolas.Count == 0)
             {
-                return NotFound();
+                return NoContent();
             }
             return escolas;
         }

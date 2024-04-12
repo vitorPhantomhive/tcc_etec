@@ -3,9 +3,10 @@
 namespace ApiStudyHome.Models
 {
     [Table("entregue")]
-    public class Entregue
+    public class TarefaEntregue
     {
     
+        //tabela que guarda qual aluno entregou qual tarefa
 
         public int Id { get; set; }
         [ForeignKey("Aluno")]
@@ -20,5 +21,12 @@ namespace ApiStudyHome.Models
         public string ComentariosProfessor { get; set; }
         public string ComentariosAluno { get; set; }
 
+        public void Update(int idAluno, int idTarefa, string comentariosProfessor, string comentariosAluno)
+        {
+            IdAluno = idAluno;
+            IdTarefa = idTarefa;
+            ComentariosAluno = comentariosAluno;
+            ComentariosProfessor = comentariosProfessor;
+        }
     }
 }

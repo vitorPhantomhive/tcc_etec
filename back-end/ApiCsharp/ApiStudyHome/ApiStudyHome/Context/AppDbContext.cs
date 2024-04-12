@@ -13,7 +13,7 @@ namespace ApiStudyHome.Context
         public DbSet<Aluno> Alunos { get; set; }
         public DbSet<Anotacao> Anotacoes { get; set; }
         public DbSet<ArquivoEntregue> ArquivoEntregues { get; set; }
-        public DbSet<Entregue> Entregue { get; set; }
+        public DbSet<TarefaEntregue> Entregue { get; set; }
 
         public DbSet<Escola> Escolas {get; set;}
         public DbSet<Materia> Materias {get; set;}
