@@ -12,5 +12,12 @@ namespace ApiStudyHome.Models
         public ICollection<TurmaProfessor> Professores { get; set; }
         public ICollection<Aluno> Alunos { get; set; }
         public ICollection<Tarefa> Tarefas { get; set; }
+
+        public void Update(int id, string nome)
+        {
+            Id = id;
+            Nome = nome;
+
+        }
     }
 }
